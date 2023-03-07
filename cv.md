@@ -1,3 +1,5 @@
+![photo](./photo.jpg "my photo")
+
 # Yana Myroniak
 
 ## junior frontend developer
@@ -60,3 +62,23 @@ Team project.
 
 **[Job search site](http://client-zb5-freelance.s3-website.eu-central-1.amazonaws.com/), [git](https://github.com/yana-mironyak/syntactic-sugar_frontend) (React, Redux, NestJS, TypeScript)**
 Internship project.
+
+### Languages
+
+Ukrainian - native\
+Russian - native\
+English - Intermediate
+
+### Aditional Education
+
+IT School GoIT (Kyiv)\
+2021-2022 | Full Stack Developer
+
+### Contact information
+
++380954361364
+yanika.mironyak@gmail.com
+[GIT](https://github.com/yana-mironyak)
+[linkedin](https://www.linkedin.com/in/yana-myroniak-02126a239/)
+discord - Nesmeyana (@yana-mironyak)
+Kyiv, Ukraine
