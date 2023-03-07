@@ -28,3 +28,35 @@ Also have experience as a Scrum Master.\
 - Hardworking
 - Multitasking
 - Creative thinking
+
+### Education
+
+Institute of Tourism Federation of Trade Unions Ukraine\
+2004 - 2009\
+Specialist | Organization management.
+
+### Work experience
+
+**Intern full stack developer**
+**ZenBit | 12.2022-01.2023**
+
+- Development of a job search application
+
+Used: React, Next.js, Typescript, Redux, libraries
+
+### Projects
+
+**[IceCream](https://yana-mironyak.github.io/ice-cream), [git](https://github.com/yana-mironyak/ice-cream) (HTML, SASS, JS, responsive layout)**
+Company site with a tasty design.\
+Team project.
+
+**[Filmoteka](https://yana-mironyak.github.io/filmoteka/), [git](https://github.com/yana-mironyak/filmoteka) (HTML, SASS, JS, Axios, REST API)**
+App for searching movie.\
+Team project.
+
+**[Petly](https://project-group-4-petly.netlify.app/petly-project-fe), [git](https://github.com/Max-Loktionov/petly-project-fe) (JS, React, Redux, Node, Express, MongoDB)**
+App that helps to take care of pets and find them a home.\
+Team project.
+
+**[Job search site](http://client-zb5-freelance.s3-website.eu-central-1.amazonaws.com/), [git](https://github.com/yana-mironyak/syntactic-sugar_frontend) (React, Redux, NestJS, TypeScript)**
+Internship project.
